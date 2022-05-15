@@ -1,4 +1,4 @@
-# Favourites
+# Pinkish
   <p align="left">
 Simple jumping from view controller to view controller using buttons!
   </p>
